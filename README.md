@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benl17
 - 👀 I’m interested in new and emerging tech and how it is applied in the real world
-- 🌱 I’m currently a Senior at UW Madison pursuing a Computer Science degree
+- 🌱 I’m a recent UW Madison Computer Scince graduate 
 - 📫 How to reach me on email --> benlynch17@gmail.com
 
 <!---
